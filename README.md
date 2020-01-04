@@ -1,5 +1,18 @@
 # flutter_local_storage
 
+# Preview
+
+
+<p float="left">
+<img src="https://user-images.githubusercontent.com/10207753/71765519-bbd0d480-2f17-11ea-8a56-f8d8634876c1.png" width="260" height="450" /> 
+
+<img src="https://user-images.githubusercontent.com/10207753/71765520-bbd0d480-2f17-11ea-8705-7db2bcaefb44.png" width="260" height="450" />
+
+<img src="https://user-images.githubusercontent.com/10207753/71765521-bc696b00-2f17-11ea-918c-38c762a00bac.png" width="260" height="450" />
+
+</p>
+
+
 A new Flutter project.
 
 ## Getting Started
